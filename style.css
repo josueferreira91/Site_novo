@@ -7,11 +7,7 @@
 }
 
 body {
-<<<<<<< HEAD
     background: url(Imagens/fundoPaginaAlterado.jpg) no-repeat center fixed;
-=======
-    background: url(Imagens/fundoTelaBemEstar.jpg) no-repeat center fixed;
->>>>>>> f1ea1448ea63ce4f743af5caf3227cfdc5759c52
     /*Escolhe a imagem que será utilizada como fundo*/
     background-size: cover;
     box-sizing: border-box;
