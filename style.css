@@ -15,7 +15,7 @@ body {
 
 /*****************************Página Inicio***********************************/
 .apresentacao {
-    margin: 3% 23%;
+    margin: 1% 31%;
     display: flex;
     justify-content: space-between;
     text-align: center;
@@ -25,9 +25,10 @@ body {
     width: 100%;
     display: flex;
     flex-direction: column;
-    gap: 45px;
+    gap: 5px;
     text-align: center;
     align-items: center;
+    
 }
 
 .apresentacao__conteudo__endereco {
@@ -73,13 +74,13 @@ body {
 }
 
 .animacaobotao {
-    background-color: #FF7100;
+    background-color: #EB2B9C;
     color: white;
-    border: 2px solid #FF7100;
+    border: 2px solid #EB2B9C;
 }
 
 .animacaobotao:hover {
-    background-color: black;
+    background-color: #964D77;
     color: white;
 }
 
@@ -89,7 +90,7 @@ ul {
     text-align: center;
     padding: 0;
     overflow: hidden;
-    background-color: black;
+    background-color: #49686B;
 }
 
 li {
@@ -106,7 +107,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #FF7100;
+    background-color: #EB2B9C;
 }
 
 /*****************************Página Sobre***********************************/
